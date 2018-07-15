@@ -1,0 +1,14 @@
+{
+  "name": "@ajhsu/csspath",
+  "version": "0.0.1",
+  "description": "Generating CSS Path from DOM Elements.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AJ Hsu <im.ajhsu@gmail.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
