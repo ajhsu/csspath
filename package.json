@@ -2,12 +2,20 @@
   "name": "@ajhsu/csspath",
   "version": "0.0.1",
   "description": "Generating CSS Path from DOM Elements.",
+  "homepage": "https://github.com/ajhsu/csspath#readme",
+  "bugs": {
+    "url": "https://github.com/ajhsu/csspath/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhsu/csspath.git"
+  },
+  "license": "BSD-3-Clause",
+  "author": "AJ Hsu <im.ajhsu@gmail.com>",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "AJ Hsu <im.ajhsu@gmail.com>",
-  "license": "BSD-3-Clause",
   "devDependencies": {
     "jest": "^23.4.1"
   }
